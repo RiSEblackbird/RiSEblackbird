@@ -1,6 +1,13 @@
 ## Self-study repository (name starts with "_")
-- 以後の学習をブーストするための自分向けの教育ドキュメント/リファレンス集を試みています。 
-- 公式ドキュメントの他、簡単なチュートリアル記事等を参照させて頂きながら作成しています。  
+
+- 以後の独学をブーストするために自分向けの教育ドキュメント/リファレンス集の作成を試みています。  
+- 公式ドキュメントの他、チュートリアル記事等を参照させて頂きながら作成しています。  
+
+## その他
+
+#### リポジトリの統計 : https://profile-summary-for-github.com/user/RiSEblackbird (Powered by [profile-summary-for-github](https://github.com/tipsy/profile-summary-for-github))
+
+#### Lapras Profile : https://lapras.com/public/Y3A73QQ
 
 <!--
 ### Hi there 👋
