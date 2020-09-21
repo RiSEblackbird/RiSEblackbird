@@ -1,6 +1,9 @@
-### Hi there 👋
+## Self-study repository (name starts with "_")
+- 以後の学習をブーストするための自分向けの教育ドキュメント/リファレンス集を試みています。 
+- 公式ドキュメントの他、簡単なチュートリアル記事等を参照させて頂きながら作成しています。  
 
 <!--
+### Hi there 👋
 **RiSEblackbird/RiSEblackbird** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
