@@ -5,9 +5,11 @@
 
 ## その他
 
-#### GitHubの統計 :    https://profile-summary-for-github.com/user/RiSEblackbird (Powered by [profile-summary-for-github](https://github.com/tipsy/profile-summary-for-github))
+#### GitHubの統計 :    <https://profile-summary-for-github.com/user/RiSEblackbird> (Powered by [profile-summary-for-github](https://github.com/tipsy/profile-summary-for-github))
 
-#### Lapras Profile : https://lapras.com/public/Y3A73QQ
+#### Lapras Profile : <https://lapras.com/public/Y3A73QQ>
+
+#### Qiita : <https://qiita.com/RiSE_blackbird>
 
 <!--
 ### Hi there 👋
